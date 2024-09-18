@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello! 👋 I'm Ali Eren Küçük
 
-<!--
-**alierenkucuk/alierenkucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freshman Computer Engineering student at Bilkent University. 🚀 I'm passionate about technology and programming, constantly improving myself by working on new projects.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Engineering at Bilkent University
+- 🖥️ Interests: Cybersecurity, Artificial Intelligence, Algorithms
+- 🌱 Currently learning: Java, Python, Go
+- 💡 In my free time, I enjoy solving coding challenges (Project Euler, LeetCode).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Contact
+- **LinkedIn:** [linkedin.com/in/ali-eren-küçük-337550314](https://www.linkedin.com/in/ali-eren-k%C3%BC%C3%A7%C3%BCk-337550314/)
+- **Email:** alirenkucuk@gmail.com / eren.kucuk@ug.bilkent.edu.tr
+
 -->
